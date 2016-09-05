@@ -1,0 +1,66 @@
+﻿heterogeneous:多相的，不均匀的；
+incipient：初期的，初始的，发端；
+phenol：石碳酸；苯酚；
+oxalic acid：草酸；
+potassium permanganate：高锰酸钾；
+chlorate：铝酸盐；
+methanol：甲醇（metanol alcohol）
+reagent：试剂，反应物，反应力；
+ambient temperature:环境温度，室温，周围温度；
+formic acid：甲酸；
+eﬄuents：废水（eﬄuent的复数形式）；
+oxidant：氧化剂；
+refractory：难治的；难熔的，不听话的；
+aromatic：n.芳香植物；芳香剂；adj.芳香的，芬芳的，芳香族的；
+spectrophotometer：分光光度计
+graphite：石墨；
+nitrobenzene:硝基苯；
+ketone：酮类；
+amines：胺，胺类；
+precipitate:n.沉淀物，v.使沉淀;
+manganese:锰；
+iodometric titration method:碘量滴定法；
+synergistic：adj.协同的；协作的，协同作用的；
+nucleophilicity:亲核性;
+electrophilic:亲电性；
+protonate:使质子化，加质子于；
+precipitate:n.沉淀物;vt.使沉淀
+hydrazine hydrate：水合肼；
+adsorbent:n.吸附剂; adj.吸附的；
+adsorbate：被吸附物，吸附物；
+moiety:[化学]一部分，一半；另解：基团；
+proton：质子；
+heterocyclic：杂环的；不同环式的；
+macrocycles：大环；
+acetate：醋酸盐；
+gasiﬁcation：气化；
+pyrolyze：使热解，使裂解 ；
+nanoparticle:纳米粒子；
+succinic acid (SA):琥珀酸；丁二酸；
+calcination：煅烧；焙烧；
+trivalent：三价的；
+tetravalent：四价的；
+propanol:丙醇；
+micromeritic: n.微晶粒状,微晶粒学; adj.微晶粒状的;
+membrane:膜，薄膜，羊皮纸;
+supernatant:n.上层清液，浮层;adj.浮在表面，上层的;
+porosity:有孔性，多孔性;
+centrifuge：vt.用离心机分离;n.离心机;
+chromatograph:色谱仪;
+acetic acid:醋酸;
+acrylic acid：丙烯酸;
+fumaric acid：富马酸;反丁烯二酸;
+aliphatic:脂肪质的.脂肪族的;
+hydrophilic:亲水的;
+syringe：n.注射器；adv.注射，冲洗；
+aerobic: 需氧的；
+anaerobic：厌氧的；
+pyrolysis:热解,高温分解;
+aggregation:聚合，聚集；聚集体，集合体;
+doped:掺杂;
+chromium:铬;
+ferrous sulphate:硫酸铁,硫酸亚铁:
+syringe:注射器,洗涤器:注射,冲洗;
+speciﬁc surface area:比表面积;
+
+
